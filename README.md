@@ -24,7 +24,7 @@ To run this project locally, you will need Xcode installed on your macOS machine
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MuhammadNihal/ExpenseTrackerApp.git](https://github.com/MuhammadNihal/ExpenseTrackerApp.git)
+    git clone https://github.com/MuhammadNihal/ExpenseTrackerApp.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
